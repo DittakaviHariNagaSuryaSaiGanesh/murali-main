@@ -1,0 +1,31 @@
+background-color: #cb5427
+nav-bar: #710e10
+color: #f5a330
+border: #ee912
+
+DB
+username: dittakaviganesh
+password: 7afQ9Ba9EYW4wb7b
+
+DB_User
+username: ganesh
+password: zPPGfzXQG9CiGV4m
+
+
+Requirments
+
+1. bill print
+2. cash/online - how much recived shop wise
+
+
+shops:-
+
+shop1
+shop2
+shop3
+shop4
+
+Reports:-
+
+cash/online - how much recived shop wise
+item wise report
